@@ -1,0 +1,2 @@
+ls /dev/v4l/by-path/
+@reboot /bin/bash /home/kniti/Documents/test/start.sh
